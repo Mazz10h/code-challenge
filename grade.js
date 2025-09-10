@@ -1,4 +1,5 @@
-const marks = 40;
+console.log("Input student marks")
+let marks;
 // Check if marks are between 80 and 100 — Grade A
 if (marks >= 79 && marks <= 100) {
   console.log("A");
